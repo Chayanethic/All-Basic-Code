@@ -1,5 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
+///////////////////////////////////***********TC -> V*(logV + ElogV) *********************************/////////////////
+//////////////////////////////////////////////***EVlog(V)*******//////////////////////////////////////////////////////
 
 #define P pair<int, int>
 vector<int> dijkstra(vector<vector<P>> &adj, int n, int src)
